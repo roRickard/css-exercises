@@ -1,0 +1,22 @@
+p.paragraph {
+    background-color: rgb(222, 121, 155);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#two{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+
+}
+
+.three {
+    font-size: 24px;
+
+}
+
+#four {
+    background-color: #c9ff77;
+    font-size: 24px;
+    font-weight: bold;
+}
